@@ -68,9 +68,11 @@ https://stream.hownetwork.xyz/xxx/avengers-endgame-2019-bluray_X_870677ab/26/480
 https://storage.dewanonton.online/hls/ca4e0be3-e023-49ce-8720-7edea0e115c8.mp4/index.m3u8
 
 =====================
-#EXTINF:-1 group-logo="https://i.imgur.com/CCEclMa.jpeg" group-title="✅OFFICIAL NFLX IPTV24",✅OFFICIAL NFLX IPTV24
+#EXTINF:-1 group-logo="https://i.imgur.com/CCEclMa.jpeg" group-title="✅OFFICIAL NFLX IPTV",✅OFFICIAL NFLX IPTV
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
-#EXTINF:-1 group-logo="https://i.imgur.com/bB445Sz.jpeg" group-title="✅INFORMASI ORDER",✅https://s.id/TVpintar
+#EXTINF:-1 group-logo="https://i.imgur.com/bB445Sz.jpeg" group-title="✅https://s.id/nflxiptv",✅https://s.id/nflxiptv
+https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
+#EXTINF:-1 group-logo="https://i.imgur.com/bB445Sz.jpeg" group-title="✅INFORMASI ORDER",✅INFORMASI ORDER
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
 #EXTINF:-1 group-logo="https://i.imgur.com/CCEclMa.jpeg" group-title="📩SIARAN TERBATAS",📩SIARAN TERBATAS
 https://youtu.be/7rdc-QV6P6s?list=RD7rdc-QV6P6s
@@ -202,7 +204,6 @@ http://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.
 #EXTINF:-1 group-title="IPTV PREMIUM (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png", iNews (V2)
 https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
 
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png" group-title="IPTV PREMIUM (Server 1) 🇮🇩 ",SCTV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -215,7 +216,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-
 
 #EXTINF:-1 group-title="IPTV PREMIUM (Server 1) 🇮🇩 " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -252,15 +252,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3sBQgmR
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="IPTV PREMIUM (Server 1) 🇮🇩 ", Moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji00.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="IPTV PREMIUM (Server 1) 🇮🇩 ", Moji (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -278,7 +275,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png" group-title="IPTV PREMIUM (Server 1) 🇮🇩 ", RTV (Indihome)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -318,7 +314,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1 group-title="IPTV PREMIUM (Server 1) 🇮🇩 " tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -330,7 +325,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="IPTV PREMIUM (Server 1) 🇮🇩 " tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png", Trans7 (detik)
 #http://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
